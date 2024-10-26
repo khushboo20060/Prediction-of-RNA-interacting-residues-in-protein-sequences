@@ -60,8 +60,6 @@ It contantain following files, brief descript of these files given below
 
 README.md     			: This file provide information about this package
 
-prog            		: This folder contains all the models
-
 pprint2.py 			: Main python program 
 
 example_output_AAB.txt		: Example output file in csv format for job 1, i.e. AAB based model
